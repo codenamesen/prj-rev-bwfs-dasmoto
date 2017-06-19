@@ -1,0 +1,41 @@
+html {
+  font-family: Helvetica;
+}
+
+/*The Below image appears at background of the main heading/banner*/
+.bannerimage{
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
+}
+
+.banner {
+  font-size:100px;
+  font-weight: bold;
+  color:Khaki;
+  text-align: center;
+}
+
+/*Below css styles the paragraphs.*/
+.items {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+/*Belw css style the price tag.*/
+.price {
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+}
+
+#brush{
+  background-color: mediumspringgreen;
+}
+
+#frame{
+  background-color: lightcoral;
+}
+
+#paint{
+  background-color: skyblue;
+}
